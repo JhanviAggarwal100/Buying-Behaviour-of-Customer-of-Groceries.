@@ -30,7 +30,10 @@ Transaction Timing:
 Potential for Basket Analysis:
 - With detailed item-level data, the dataset is suitable for market basket analysis to uncover associations between items purchased together.
 
-##
+## Files in Repository
+- PPT of this project
+- Dataset
+- Images
 
 
 
