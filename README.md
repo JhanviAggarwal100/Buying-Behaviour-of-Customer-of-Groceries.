@@ -33,17 +33,8 @@ Potential for Basket Analysis:
 ## Files in Repository
 - PPT of this project
 - Dataset
-- Images
-
-
-
-
-
-
-
-
-
-
+- Images of CTES and Insights
+- SQL File
 
 ## Contact
 https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
